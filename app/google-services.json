@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452452007842",
+    "project_id": "damchat-30704",
+    "storage_bucket": "damchat-30704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452452007842:android:2b12d86898f71b9a613cfb",
+        "android_client_info": {
+          "package_name": "com.dam.damchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452452007842-jcvn6ub79nflu367tsom8u29ekbiuifp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33t4z2yRQidBbclBHZ7CXgB0x8nAfQRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452452007842-jcvn6ub79nflu367tsom8u29ekbiuifp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
